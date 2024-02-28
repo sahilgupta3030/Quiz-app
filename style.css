@@ -1,0 +1,38 @@
+body {
+    background-color: #C5EBAA;
+}
+
+.col-md-7 {
+    margin-top: 150px;
+    padding: 20px;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+#question {
+    margin-left: 10px;
+}
+
+input, label {
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button {
+    margin: 10px;
+    float: right;
+}
+
+footer {
+    text-align: center;
+    margin: auto;
+    background-color: #7ca775;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
