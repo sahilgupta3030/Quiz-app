@@ -30,12 +30,20 @@ button {
 
 footer {
     text-align: center;
-    margin: auto;
+    padding: 5px 0;
+    height: 20px;
     background-color: #7ca775;
     color: white;
     position: fixed;
+    left: 0;
     bottom: 0;
     width: 100%;
+}
+footer p {
+    margin: 0;
+    line-height: 20px;
+    font-size: 16px;
+    min-height: 20px;
 }
 
 @media screen and (max-width: 600px) {
